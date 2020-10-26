@@ -1,4 +1,5 @@
 <html>
+<body>
     <h1>
         Aplicações do método de Monte Carlo
     </h1>
@@ -23,6 +24,6 @@
             </p>
         </li>
     </ul>
-    
+</body>
 </html>
 
