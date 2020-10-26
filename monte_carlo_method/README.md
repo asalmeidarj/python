@@ -1,5 +1,7 @@
-# Aplicações do método de Monte Carlo
-
+<html>
+<h1>
+Aplicações do método de Monte Carlo
+</h2>
 //////// Arquivos Referentes à aplicações do método de Monte Carlo ////////////
 
 01_encontro.py:
@@ -11,5 +13,5 @@
 03_integral.py:
     Aplicação do método de Monte Carlo para determinar o valor aproximado da integral de seno x dx no intervalo de [0, 2pi] 
     
-    
+</html>
 ///////////////////////////////////////////////////////////////////////////////
