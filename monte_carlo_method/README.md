@@ -1,8 +1,17 @@
 <html>
-<h1>
-Aplicações do método de Monte Carlo
-</h1>
+    <h1>
+        Aplicações do método de Monte Carlo
+    </h1>
     <h2>Arquivos Referentes às aplicações do método de Monte Carlo</h2>
+    
+
+    <ul>
+        <li>
+            <a href="Allgamecoin.com/">Allgamecoin</a>
+        </li>
+    </ul>
+
+
 
 01_encontro.py:
     Aplicação do método de Monte Carlo para solução do problema probabilístico contido no arquivo problema_001.md
