@@ -24,10 +24,6 @@
             <a href="https://github.com/asalmeidarj/python/blob/master/monte_carlo_method/003_integral.py">003_integral.py</a>:
             <p>
                 Aplicação do método de Monte Carlo para determinar o valor aproximado da integral de seno x dx no intervalo de [0, 2pi] 
-                <div lang="latex">
-                    \frac{1+sin(x)}{y}
-                </div>
-
             </p>
         </li>
     </ul>
