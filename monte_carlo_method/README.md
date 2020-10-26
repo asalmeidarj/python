@@ -9,7 +9,7 @@
     Aplicação do método de Monte Carlo para calcular o valor aproximado de pi
     
 03_integral.py:
-    Aplicação para determinar o valor aproximado da integral de seno x dx no intervalo de [0, 2pi] 
+    Aplicação do método de Monte Carlo para determinar o valor aproximado da integral de seno x dx no intervalo de [0, 2pi] 
     
     
 ///////////////////////////////////////////////////////////////////////////////
