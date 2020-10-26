@@ -4,4 +4,4 @@
 
 
 Comentário:
-  Podemos resolver este problema com probabilidade clássica ou com probabilidade frequentista utilizando o método de Monte Carlo. O arquivo '01_encontro.py' contém a aplicação em python do método de Monte Carlo para solução do problema.
+  Podemos resolver este problema com probabilidade clássica ou com probabilidade frequentista utilizando o método de Monte Carlo. O arquivo '001_encontro.py' contém a aplicação em python do método de Monte Carlo para solução do problema.
