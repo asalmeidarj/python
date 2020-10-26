@@ -21,7 +21,7 @@
             <a href="https://github.com/asalmeidarj/python/blob/master/monte_carlo_method/003_integral.py">003_integral.py</a>:
             <p>
                 Aplicação do método de Monte Carlo para determinar o valor aproximado de 
-                <img src="http://latex.codecogs.com/svg.latex?\int_{a}^{b} x^2 \,dx" border="0"/> no intervalo de 
+                <img src="http://latex.codecogs.com/svg.latex?\int_{0}^{2\pi} sin(x) \,dx" border="0"/> no intervalo de 
                 <img src="http://latex.codecogs.com/svg.latex?[0, 2\pi]" border="0"/>
             </p>
         </li>
