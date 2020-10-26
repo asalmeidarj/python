@@ -22,7 +22,7 @@
             <p>
                 Aplicação do método de Monte Carlo para determinar o valor aproximado de <br>
                 <center>
-                <img src="http://latex.codecogs.com/svg.latex?\int_{0}^{2\pi} sin(x) \,dx \textrm{  no intervalo de } [0, 2\pi]" border="0"/> <br>
+                <img src="http://latex.codecogs.com/svg.latex?\int_{0}^{2\pi} sin(x) \,dx \mathrm{\hspace{0.2 cm}  no \hspace{0.2 cm} intervalo \hspace{0.2 cm} de \hspace{0.2 cm}} [0, 2\pi]" border="0"/> <br>
                 </center>
             </p>
         </li>
