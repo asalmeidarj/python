@@ -1,7 +1,4 @@
 <html>
-    <head>
-        <script type="text/javascript" src="http://latex.codecogs.com/latexit.js"></script>
-    </head>
 <body>
     <h1>
         Aplicações do método de Monte Carlo
@@ -23,7 +20,9 @@
         <li>
             <a href="https://github.com/asalmeidarj/python/blob/master/monte_carlo_method/003_integral.py">003_integral.py</a>:
             <p>
-                Aplicação do método de Monte Carlo para determinar o valor aproximado da integral de seno x dx no intervalo de [0, 2pi] 
+                Aplicação do método de Monte Carlo para determinar o valor aproximado de 
+                <img src="http://latex.codecogs.com/svg.latex?\int_{a}^{b} x^2 \,dx" border="0"/> no intervalo de 
+                <img src="http://latex.codecogs.com/svg.latex?[0, 2\pi]" border="0"/>
             </p>
         </li>
     </ul>
