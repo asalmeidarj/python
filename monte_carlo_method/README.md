@@ -8,7 +8,8 @@
         <li>
             <a href="https://github.com/asalmeidarj/python/blob/master/monte_carlo_method/001_encontro.py">001_encontro.py</a>:
             <p>
-                Aplicação do método de Monte Carlo para solução do problema probabilístico contido no arquivo problema_001.md
+                Aplicação do método de Monte Carlo para solução do problema probabilístico contido no arquivo
+                <a href="https://github.com/asalmeidarj/python/blob/master/monte_carlo_method/problema_001.md">problema_001.md</a>
             </p>
         </li>
         <li>
