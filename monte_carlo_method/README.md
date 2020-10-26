@@ -5,7 +5,7 @@
     <h2>Arquivos Referentes às aplicações do método de Monte Carlo</h2>    
     <ul>
         <li>
-            <a href="Allgamecoin.com/">Allgamecoin</a>
+            <a href="https://github.com/asalmeidarj/python/blob/master/monte_carlo_method/001_encontro.py">01_encontro</a>
         </li>
     </ul>
 
