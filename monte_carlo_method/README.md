@@ -24,7 +24,7 @@
             </p>
             <p>
                 <center>
-                <img src="http://latex.codecogs.com/svg.latex?\int_{0}^{2\pi} sin(x) \,dx" border="0"/> <br>
+                <img src="http://latex.codecogs.com/svg.latex?\int_{0}^{2\pi} | sin(x) | \,dx" border="0"/> <br>
                 </center>
             </p>
         </li>
