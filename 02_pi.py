@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 npontos_circulo = 0
-npontos = 500000
+npontos = 100000
 
 x = np.random.rand(npontos)
 y = np.random.rand(npontos)
