@@ -1,7 +1,7 @@
 <html>
 <body>
     <h1>
-        Aplicações do método de Monte Carlo
+        Aplicações do método de Monte Carlo em linguagem python
     </h1>
     <h2>Arquivos Referentes às aplicações do método de Monte Carlo</h2>    
     <ul>
