@@ -7,3 +7,6 @@
     
 02_pi.py:
     Aplicação do método de Monte Carlo para calcular o valor aproximado de pi
+    
+    
+///////////////////////////////////////////////////////////////////////////////
