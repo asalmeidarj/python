@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 def func(x):
+    """Retorna o módulo do seno de um valor dado."""
     return abs(np.sin(x))
 
 npontos = 500000
@@ -27,6 +28,7 @@ for i in range(npontos):
         xe.append(x[i])
         ye.append(y[i])
 
+"""Plotar o gráfico"""
 plt.figure(figsize=(7,8))
 plt.scatter(xg, yg, s=0.8)
 plt.scatter(xe, ye, s=0.8)
