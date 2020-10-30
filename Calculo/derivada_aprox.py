@@ -1,7 +1,6 @@
 """1° derivada de uma função f em um ponto p por aproximação"""
 
-import numpy as np
-from sympy import *
+from sympy import sympify
 
 def ndeltx(num):
     return 10**(-num)
@@ -13,8 +12,5 @@ def recebe():
 
 f, p = recebe()
 deltx = ndeltx(5)
-print(f'f = {f}')
-print(f'p = {p}')
-print(f'deltx = {deltx}')
 result = (f.subs('x', p + deltx) - f.subs('x', p - deltx))/(2*deltx)
 print(result)
