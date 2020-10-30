@@ -11,7 +11,7 @@ def recebe():
     ponto = input('no ponto: ')
     return (sympify(expr), sympify(ponto))
 
-f, p = recebe()
+f, p = recebe()  # A função f e o pontos p recebem os valores inseridos
 deltx = ndeltx(5)
 result = (f.subs('x', p + deltx) - f.subs('x', p - deltx))/(2*deltx)
 print(result)
