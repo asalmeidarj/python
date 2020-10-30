@@ -13,8 +13,5 @@ def recebe():
 
 f, p = recebe()
 deltx = ndeltx(5)
-print(f'f = {f}')
-print(f'p = {p}')
-print(f'deltx = {deltx}')
 result = (f.subs('x', p + deltx) - f.subs('x', p - deltx))/(2*deltx)
 print(result)
