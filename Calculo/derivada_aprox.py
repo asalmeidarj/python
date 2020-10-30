@@ -7,7 +7,7 @@ def ndeltx(num):
 
 def recebe():
     expr = input('Derivada da função: ')
-    ponto = input('no ponto: ')
+    ponto = input('ponto: ')
     return (sympify(expr), sympify(ponto))
 
 f, p = recebe()
