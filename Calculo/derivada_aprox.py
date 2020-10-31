@@ -9,6 +9,6 @@ def recebe():
 
 
 f, p = recebe()  # A função f e o ponto p recebem os valores inseridos
-deltx = 10**5
+deltx = 10**(-5)
 result = (f.subs('x', p + deltx) - f.subs('x', p - deltx))/(2*deltx)
 print(result)
