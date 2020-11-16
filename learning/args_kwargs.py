@@ -25,7 +25,8 @@ def valor1(valor, **kwargs):
 def valor2(arg, **kwargs): 
     '''Função retorna o valor com taxas e desconto caso haja.
     Aqui o parâmetro kwarg é passado como um dicionário.
-     Exemplo: valor(100, **{'taxa': 0.1, 'desconto': 15})
+     Exemplo2: valor(100, **{'taxa': 0.1, 'desconto': 15})
+     Exemplo2: valor(100. taxa=0.1, desconto=15)
     '''
     valor = arg
     for k, v in kwargs.items():
