@@ -10,10 +10,12 @@ def produto(produto, *args):
         i += 1
         print(f'Preço {i}: {arg}')
 
-def valor1(valor, **kwargs): 
+def valor1(arg, **kwargs): 
     '''Função retorna o valor com taxas e desconto caso haja
-     Exemplo: valor(100, taxa=0.1, desconto=10)
+     Exemplo1: valor(100, **{'taxa': 0.1, 'desconto': 15})
+     Exemplo2: valor(100, taxa=0.1, desconto=10)
     '''
+    valor = arg
     taxa = kwargs.get('taxa')
     desconto = kwargs.get('desconto')
     if taxa:
@@ -24,9 +26,8 @@ def valor1(valor, **kwargs):
 
 def valor2(arg, **kwargs): 
     '''Função retorna o valor com taxas e desconto caso haja.
-    Aqui o parâmetro kwarg é passado como um dicionário.
-     Exemplo2: valor(100, **{'taxa': 0.1, 'desconto': 15})
-     Exemplo2: valor(100. taxa=0.1, desconto=15)
+     Exemplo1: valor(100, **{'taxa': 0.1, 'desconto': 15})
+     Exemplo2: valor(100, taxa=0.1, desconto=15)
     '''
     valor = arg
     for k, v in kwargs.items():
@@ -36,4 +37,5 @@ def valor2(arg, **kwargs):
             valor = valor - v
     print(valor)
 
-
+    
+#####################      FIM      #########################
