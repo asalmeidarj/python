@@ -33,8 +33,7 @@
             <p>
                 Acesse o link abaixo para assistir a palestra dada na faculdade UNIGRANRIO.
             </p>
-            <a href="https://us-lti.bbcollab.com/recording/04cf80e1eccb4b169007a84a6a8011bf">Video da palestra sobre Aplicações do método de Monte Carlo em linguagem python</a>:
-            
+            <a href="https://us-lti.bbcollab.com/recording/04cf80e1eccb4b169007a84a6a8011bf">Video da palestra sobre Aplicações do método de Monte Carlo em linguagem python</a>    
         </li>
     </ul>
 </body>
